@@ -1,0 +1,1 @@
+sample app for ruby on rails tutorial
